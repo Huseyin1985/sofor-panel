@@ -1,11 +1,12 @@
 {
-  "hosting": {
-    "site": "firin1-f6f45",
-    "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+  "projects": {
+    "default": "firin1-f6f45"
+  },
+  "targets": {
+    "firin1-f6f45": {
+      "hosting": {
+        "firin": ["firin1-f6f45"]
+      }
+    }
   }
 }
