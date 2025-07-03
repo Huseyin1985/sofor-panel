@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "firin1-f6f45",
+    "target": "firin1-f6f45",
     "public": "public",
     "ignore": [
       "firebase.json",
