@@ -2,8 +2,6 @@
   "projects": {
     "default": "firin1-f6f45"
   },
-  "targets": {
-    "firin1-f6f45": {
       "hosting": {
        ["firin1-f6f45"]
       }
